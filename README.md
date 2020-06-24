@@ -3,7 +3,7 @@
 # Yum&Yum
 (yum-ē-yum) is your favorite Recipe Manager.  Create, Save, View, and Edit your recipes -- You can do it all.  Our application does not handle users passwords, instead, Google Firebase manages authentication. Once the user logs in, the app registers the user and sets the user to GlobalState enabling the user to move between pages, Search Recipes, Favorite Recipes, Add Recipes, Copy Recipes, Edit Recipes and display each of the directions in a prominent modal for easy viewing on any device.
 
-Yum&Yum is a MERN (MySql - Express - React - Node) application designed, developed, & deployed in less than two weeks by the team of 3 people utilizing Agile methodolgies.  The application uses MySql -- taking advantage of the 7 tables, 7 joins with 3 many to many relationships.  The front end is built in React and uses hooks across 8 pages utilizing 7 additional components shared with the pages.  GlobalState enables user engagement and favorite tracking with all the recipes. 
+Yum&Yum is a MERN (MySql - Express - React - Node) application designed, developed, & deployed in less than two weeks by the team of 3 people utilizing Agile methodologies.  The application uses MySQL -- taking advantage of the 7 tables, 7 joins with 3 many to many relationships.  The front end is built in React and uses hooks across 8 pages utilizing 7 additional components shared with the pages.  GlobalState enables user engagement and favorite tracking with all the recipes. 
 
 In less than two weeks, the team of 3 decided on a project, identified Minimum Viable Product (MVP), created pages of Epic Stories, Use Cases and competitive research to determine a viable product.
 
